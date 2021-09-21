@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ag0f7y+DJ9k4pEC0nX+55MV9ow3r9TB5v8kzTfZZV9C409GszORzzke+dU5wuJXTkvSAx0iFa71TTmGeftIfaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adedamola.ajayi\\source\\repos\\BackgroundServiceTutorial\\BackgroundServiceTutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.1\\swashbuckle.aspnetcore.swagger.6.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
